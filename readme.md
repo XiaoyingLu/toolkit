@@ -16,4 +16,4 @@ The included tools are:
 
 ## Installation
 
-`go get -u github.com/XiaoyingLu/toolbox`
+`go get -u github.com/XiaoyingLu/toolkit`
